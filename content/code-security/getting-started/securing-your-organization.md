@@ -39,7 +39,7 @@ You can create a default security policy that will display in any of your organi
 
 1. Click your profile photo, then click **Organizations**.
 2. Click **Settings** next to your organization.
-3. Click **Security & analysis**.
+3. Click **Code security & analysis**.
 4. Click **Enable all** or **Disable all** next to the feature that you want to manage.
 5. Optionally, select **Automatically enable for new repositories**.
 {% endif %}
